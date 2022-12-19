@@ -1,0 +1,3 @@
+activate macros for excel
+both vba and c use the same algorithme 
+Project submitted 2022
